@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#cvs {
+    width: 980px;
+    height: 400px;
+    background-color: black;
+}
+
+.songlist-body {
+    overflow-y: scroll;
+    height: 700px;
+}
+
+.songListItem {
+    color: blue;
+    cursor: pointer;
+}
